@@ -17,4 +17,5 @@ En el repositorio se debe incluir al menos una captura de pantalla de la ejecuci
 Código + dataset
 
 *Capturas*
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+![image](https://user-images.githubusercontent.com/58042087/122328943-2b613680-cef6-11eb-9048-9f690a508796.png)
+
